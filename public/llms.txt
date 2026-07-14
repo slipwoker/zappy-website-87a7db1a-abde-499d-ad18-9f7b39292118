@@ -7,48 +7,48 @@
 ## Pages
 
 ### Bucks Sauce - Best Small-Batch BBQ Sauce | Gourmet, No HFCS | Bucks Sauce
-https://example.com
+https://bucks-sauce.zappy5.app
 
 ### Bucks Sauce - Shop Small-Batch BBQ Sauce | Sweet, Spicy & Hot | Bucks Sauce
-https://example.com/shop
+https://bucks-sauce.zappy5.app/shop
 
 ### Bucks Sauce - Wholesale BBQ Sauce | Small-Batch & Chef-Crafted | Bucks Sauce
-https://example.com/wholesale
+https://bucks-sauce.zappy5.app/wholesale
 
 ### Bucks Sauce - About Bucks Sauce | Chef-Crafted Small-Batch BBQ Sauce
-https://example.com/about
+https://bucks-sauce.zappy5.app/about
 
 ### Bucks Sauce - Contact Bucks Sauce | Small-Batch BBQ Sauce
-https://example.com/contact
+https://bucks-sauce.zappy5.app/contact
 
 ### Bucks Sauce - BBQ Sauce FAQs | Ingredients, Heat Levels & More | Bucks Sauce
-https://example.com/faq
+https://bucks-sauce.zappy5.app/faq
 
 ### Bucks Sauce - Pineapple Sriracha BBQ Sauce | Sweet & Spicy | Bucks Sauce
-https://example.com/shop/crushed-pineapple-sriracha
+https://bucks-sauce.zappy5.app/shop/crushed-pineapple-sriracha
 
 ### Bucks Sauce - Habanero BBQ Sauce | Hot Small-Batch BBQ | Bucks Sauce
-https://example.com/shop/crushed-habanero-garlic
+https://bucks-sauce.zappy5.app/shop/crushed-habanero-garlic
 
 ### Bucks Sauce - Cherry Garlic BBQ Sauce | Sweet Small-Batch BBQ | Bucks Sauce
-https://example.com/shop/crushed-cherry-garlic
+https://bucks-sauce.zappy5.app/shop/crushed-cherry-garlic
 
 ### Thank You | Bucks Sauce
-https://example.com/thank-you
+https://bucks-sauce.zappy5.app/thank-you
 Thank you for contacting Bucks Sauce. We have received your message regarding our Small-Batch BBQ Sauce and wholesale inquiries.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://bucks-sauce.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://bucks-sauce.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://bucks-sauce.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -81,6 +81,6 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://bucks-sauce.zappy5.app/sitemap.xml
+- Robots: https://bucks-sauce.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bucks-sauce.zappy5.app/llms-full.txt
