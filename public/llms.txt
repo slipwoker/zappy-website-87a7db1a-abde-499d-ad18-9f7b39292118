@@ -7,48 +7,48 @@
 ## Pages
 
 ### Bucks Sauce - Best Small-Batch BBQ Sauce | Gourmet, No HFCS | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app
+https://example.com
 
 ### Bucks Sauce - Shop Small-Batch BBQ Sauce | Sweet, Spicy & Hot | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/shop
+https://example.com/shop
 
 ### Bucks Sauce - Wholesale BBQ Sauce | Small-Batch & Chef-Crafted | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/wholesale
+https://example.com/wholesale
 
 ### Bucks Sauce - About Bucks Sauce | Chef-Crafted Small-Batch BBQ Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/about
+https://example.com/about
 
 ### Bucks Sauce - Contact Bucks Sauce | Small-Batch BBQ Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/contact
+https://example.com/contact
 
 ### Bucks Sauce - BBQ Sauce FAQs | Ingredients, Heat Levels & More | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/faq
+https://example.com/faq
 
 ### Bucks Sauce - Pineapple Sriracha BBQ Sauce | Sweet & Spicy | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-pineapple-sriracha
+https://example.com/shop/crushed-pineapple-sriracha
 
 ### Bucks Sauce - Habanero BBQ Sauce | Hot Small-Batch BBQ | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-habanero-garlic
+https://example.com/shop/crushed-habanero-garlic
 
 ### Bucks Sauce - Cherry Garlic BBQ Sauce | Sweet Small-Batch BBQ | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-cherry-garlic
+https://example.com/shop/crushed-cherry-garlic
 
 ### Thank You | Bucks Sauce
-https://bucks-sauce-87a7db1a.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting Bucks Sauce. We have received your message regarding our Small-Batch BBQ Sauce and wholesale inquiries.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bucks-sauce-87a7db1a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bucks-sauce-87a7db1a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bucks-sauce-87a7db1a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -81,6 +81,6 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bucks-sauce-87a7db1a.zappy5.app/sitemap.xml
-- Robots: https://bucks-sauce-87a7db1a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bucks-sauce-87a7db1a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

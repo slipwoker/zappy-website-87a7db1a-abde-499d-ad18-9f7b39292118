@@ -2,13 +2,13 @@
 
 Shop small-batch BBQ sauce made with real ingredients. No high fructose corn syrup, no seed oils, no additives. Sweet heat with a balanced finish. Premium BBQ sauce built to perform.
 
-Source: https://bucks-sauce-87a7db1a.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Bucks Sauce - Best Small-Batch BBQ Sauce | Gourmet, No HFCS | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app
+URL: https://example.com
 
 Bucks Sauce - Best Small-Batch BBQ Sauce | Gourmet, No HFCS | Bucks Sauce
 
@@ -282,7 +282,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - Shop Small-Batch BBQ Sauce | Sweet, Spicy & Hot | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/shop
+URL: https://example.com/shop
 
 Bucks Sauce - Shop Small-Batch BBQ Sauce | Sweet, Spicy & Hot | Bucks Sauce
 
@@ -382,7 +382,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - Wholesale BBQ Sauce | Small-Batch & Chef-Crafted | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/wholesale
+URL: https://example.com/wholesale
 
 Bucks Sauce - Wholesale BBQ Sauce | Small-Batch & Chef-Crafted | Bucks Sauce
 
@@ -627,7 +627,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - About Bucks Sauce | Chef-Crafted Small-Batch BBQ Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/about
+URL: https://example.com/about
 
 Bucks Sauce - About Bucks Sauce | Chef-Crafted Small-Batch BBQ Sauce
 
@@ -735,7 +735,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - Contact Bucks Sauce | Small-Batch BBQ Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/contact
+URL: https://example.com/contact
 
 Bucks Sauce - Contact Bucks Sauce | Small-Batch BBQ Sauce
 
@@ -787,7 +787,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - BBQ Sauce FAQs | Ingredients, Heat Levels & More | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/faq
+URL: https://example.com/faq
 
 Bucks Sauce - BBQ Sauce FAQs | Ingredients, Heat Levels & More | Bucks Sauce
 
@@ -855,7 +855,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - Pineapple Sriracha BBQ Sauce | Sweet & Spicy | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-pineapple-sriracha
+URL: https://example.com/shop/crushed-pineapple-sriracha
 
 Bucks Sauce - Pineapple Sriracha BBQ Sauce | Sweet & Spicy | Bucks Sauce
 
@@ -1013,7 +1013,7 @@ Website by  Buzzworthy
 
 ## Bucks Sauce - Habanero BBQ Sauce | Hot Small-Batch BBQ | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-habanero-garlic
+URL: https://example.com/shop/crushed-habanero-garlic
 
 Bucks Sauce - Habanero BBQ Sauce | Hot Small-Batch BBQ | Bucks Sauce
 
@@ -1184,7 +1184,7 @@ Prismic Toolbar iFrame
 
 ## Bucks Sauce - Cherry Garlic BBQ Sauce | Sweet Small-Batch BBQ | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-cherry-garlic
+URL: https://example.com/shop/crushed-cherry-garlic
 
 Bucks Sauce - Cherry Garlic BBQ Sauce | Sweet Small-Batch BBQ | Bucks Sauce
 
@@ -1340,7 +1340,7 @@ Website by  Buzzworthy
 
 ## Privacy Policy
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -1516,7 +1516,7 @@ Website by  Buzzworthy
 
 ## Accessibility Statement
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -1698,7 +1698,7 @@ Website by  Buzzworthy
 
 ## Terms & Conditions
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/terms
+URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
@@ -1902,7 +1902,7 @@ Website by  Buzzworthy
 
 ## Thank You | Bucks Sauce
 
-URL: https://bucks-sauce-87a7db1a.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Thank you for contacting Bucks Sauce. We have received your message regarding our Small-Batch BBQ Sauce and wholesale inquiries.
 
 Thank You | Bucks Sauce
