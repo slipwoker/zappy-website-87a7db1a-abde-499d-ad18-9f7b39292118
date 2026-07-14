@@ -1,0 +1,86 @@
+# Bucks Sauce — Generative Engine Optimization Map
+
+> Shop small-batch BBQ sauce made with real ingredients. No high fructose corn syrup, no seed oils, no additives. Sweet heat with a balanced finish. Premium BBQ sauce built to perform.
+
+---
+
+## Pages
+
+### Bucks Sauce - Best Small-Batch BBQ Sauce | Gourmet, No HFCS | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app
+
+### Bucks Sauce - Shop Small-Batch BBQ Sauce | Sweet, Spicy & Hot | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/shop
+
+### Bucks Sauce - Wholesale BBQ Sauce | Small-Batch & Chef-Crafted | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/wholesale
+
+### Bucks Sauce - About Bucks Sauce | Chef-Crafted Small-Batch BBQ Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/about
+
+### Bucks Sauce - Contact Bucks Sauce | Small-Batch BBQ Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/contact
+
+### Bucks Sauce - BBQ Sauce FAQs | Ingredients, Heat Levels & More | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/faq
+
+### Bucks Sauce - Pineapple Sriracha BBQ Sauce | Sweet & Spicy | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-pineapple-sriracha
+
+### Bucks Sauce - Habanero BBQ Sauce | Hot Small-Batch BBQ | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-habanero-garlic
+
+### Bucks Sauce - Cherry Garlic BBQ Sauce | Sweet Small-Batch BBQ | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/shop/crushed-cherry-garlic
+
+### Thank You | Bucks Sauce
+https://bucks-sauce-87a7db1a.zappy5.app/thank-you
+Thank you for contacting Bucks Sauce. We have received your message regarding our Small-Batch BBQ Sauce and wholesale inquiries.
+
+## Legal & Policy
+
+### Privacy Policy
+https://bucks-sauce-87a7db1a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bucks-sauce-87a7db1a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bucks-sauce-87a7db1a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Bucks Sauce
+Shop small-batch BBQ sauce made with real ingredients. No high fructose corn syrup, no seed oils, no additives. Sweet heat with a balanced finish. Premium BBQ sauce built to perform.
+
+## Services/Products
+- Small-Batch BBQ Sauce
+- Wholesale
+
+## Target Audience
+- Customers looking for Small-Batch BBQ Sauce and Wholesale
+- Small-Batch BBQ Enthusiasts
+- Wholesale Buyers
+- BBQ Event Planners
+
+## Industry
+Food & Beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bucks-sauce-87a7db1a.zappy5.app/sitemap.xml
+- Robots: https://bucks-sauce-87a7db1a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bucks-sauce-87a7db1a.zappy5.app/llms-full.txt
